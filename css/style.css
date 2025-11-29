@@ -4,9 +4,27 @@ body{
 }
 .container{
     width: 720px;
-    margin: 0;
+    margin: 0 auto;
     background: #fff;
+   
 }
 .header{
-padding: 40px 0 25px 40px;
+padding: 45px 0 20px 40px;
+ border: 2px solid black;
+}
+
+.class{
+    padding: 6px 0px 6px 44px;
+    background: #a3dbeb;
+}
+.class a{
+color: #574c41;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-size: 18px;
+}
+
+.class a:hover {
+    color: #fff;
+
 }
